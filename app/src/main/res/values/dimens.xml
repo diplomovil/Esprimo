@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="minHeight">48dp</dimen>
+    <dimen name="tamanio_texto">35sp</dimen>
+
+</resources>
