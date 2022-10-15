@@ -1,4 +1,13 @@
 <resources>
-    <string name="app_name">Es primo</string>
+    <string name="app_name" translatable="false">Es Primo</string>
     <string name="opc_darkmode">Modo oscuro</string>
+    <string name="es_primo">¿Es primo?</string>
+    <string name="verificar">Verificar</string>
+    <string name="valor_requerido">Se requiere un número</string>
+    <string name="ingresa_valor">Por favor ingresa un número</string>
+    <string name="si_primo">¡El número %1$d sí es primo%2$s</string>
+    <string name="no_primo">¡El número %d no es primo!</string>
+    <string name="hint">Número</string>
+    <string name="desc_fondo">Fondo</string>
+    <string name="texto_prueba">Hola Diplo Móviles</string>
 </resources>
